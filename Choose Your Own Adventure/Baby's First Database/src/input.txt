@@ -1,4 +1,0 @@
-tiny 7
-horse 78
-ukelele 2
-george 22
